@@ -1,5 +1,3 @@
-### `script.js` (JavaScript con almacenamiento)
-```javascript
 let wikiData = {
     sections: {},
     currentSection: null
